@@ -493,7 +493,7 @@ function App() {
             <p>&copy; {new Date().getFullYear()} {siteConfig.fullName}. Tous droits réservés.</p>
             <p className="mt-2">Fromagerie artisanale à Nantes, quartier Champ de Mars / Olivettes</p>
             <p className="mt-4 text-stone-500">
-              Site créé par <a href="https://avalon-stratege.fr" target="_blank" rel="noopener noreferrer" className="hover:text-amber-300 transition-colors duration-200 underline decoration-stone-500">Avalon Stratège</a>
+              Site créé par <a href="https://www.avalon-stratege.com" target="_blank" rel="noopener noreferrer" className="hover:text-amber-300 transition-colors duration-200 underline decoration-stone-500">Avalon Stratège</a>
             </p>
           </div>
         </div>
